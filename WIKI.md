@@ -13,10 +13,6 @@ TimedOnlineRewards插件诞生于对服务器管理员需求的深入理解。�
 
 The TimedOnlineRewards plugin was born from a deep understanding of server administrator needs. Traditional reward systems often have limited functionality and lack flexibility, unable to meet the complex needs of modern Minecraft servers. This plugin aims to provide a comprehensive, user-friendly, and powerful reward management solution.
 
-### 版本历程 / Version History
-- **v1.0.0** (2024年 / 2024) - 首个正式版本发布，包含核心功能 / First official version released with core functionality
-- **v1.0.1** (2024年 / 2024) - 新增自定义消息和GUI优化 / Added custom messages and GUI optimization
-- **v1.0.2** (2024年 / 2024) - 完善离线奖励系统 / Enhanced offline reward system
 
 ## 技术架构 / Technical Architecture
 
@@ -380,5 +376,6 @@ public void onRewardGive(RewardGiveEvent event) {
 ---
 
 *本百科文档持续更新中，如有疑问或建议，欢迎通过GitHub Issues反馈。*
+
 
 *This encyclopedia document is continuously updated. If you have any questions or suggestions, please feel free to provide feedback through GitHub Issues.*
