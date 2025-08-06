@@ -36,7 +36,7 @@ A powerful Minecraft Bukkit/Spigot plugin that provides a flexible timed reward 
 *灵活的时间配置选项 / Flexible time configuration options*
 
 ### 奖励内容设置 / Reward Content Setting
-![奖励设置](<img width="1112" height="714" alt="image" src="https://github.com/user-attachments/assets/717d01ee-d496-490e-a2d1-4927ac0817ae" />
+![奖励设置](<img width="1112" height="714" alt="image" src="https://github.com/user-attachments/assets/e99c7697-e2fe-4d95-aa28-24c935c03da0" />
 )
 *丰富的奖励类型配置 / Rich reward type configuration*
 
@@ -318,4 +318,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ⭐ 如果这个项目对您有帮助，请给我们一个星标！/ If this project helps you, please give us a star!
+
 
