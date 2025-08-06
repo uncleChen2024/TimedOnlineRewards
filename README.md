@@ -138,7 +138,7 @@ rewards:
 
 ```bash
 # 克隆仓库 / Clone repository
-git clone https://github.com/your-username/TimedOnlineRewards.git
+git clone https://github.com/uncleChen/TimedOnlineRewards.git
 cd TimedOnlineRewards
 
 # 编译项目 / Compile project
@@ -289,7 +289,7 @@ offline-handling: "delay"
 如果您遇到任何问题或有功能建议，请：/ If you encounter any issues or have feature suggestions, please:
 
 1. 查看 [Wiki](WIKI.md) 获取详细文档 / Check [Wiki](WIKI.md) for detailed documentation
-2. 搜索现有的 [Issues](https://github.com/your-username/TimedOnlineRewards/issues) / Search existing [Issues](https://github.com/your-username/TimedOnlineRewards/issues)
+2. 搜索现有的 [Issues](https://github.com/uncleChen/TimedOnlineRewards/issues) / Search existing [Issues](https://github.com/uncleChen/TimedOnlineRewards/issues)
 3. 创建新的 Issue 并提供详细信息 / Create a new Issue with detailed information
 
 ## 📄 许可证 / License
@@ -306,10 +306,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 联系方式 / Contact
 
-- 项目主页 / Project Homepage: [GitHub Repository](https://github.com/your-username/TimedOnlineRewards)
-- 问题反馈 / Issue Reporting: [Issues](https://github.com/your-username/TimedOnlineRewards/issues)
-- 讨论交流 / Discussions: [Discussions](https://github.com/your-username/TimedOnlineRewards/discussions)
+- 项目主页 / Project Homepage: [GitHub Repository](https://github.com/uncleChen/TimedOnlineRewards)
+- 问题反馈 / Issue Reporting: [Issues](https://github.com/uncleChen/TimedOnlineRewards/issues)
+- 讨论交流 / Discussions: [Discussions](https://github.com/uncleChen/TimedOnlineRewards/discussions)
 
 ---
+
 
 ⭐ 如果这个项目对您有帮助，请给我们一个星标！/ If this project helps you, please give us a star!
