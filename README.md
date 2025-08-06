@@ -21,19 +21,23 @@ A powerful Minecraft Bukkit/Spigot plugin that provides a flexible timed reward 
 ## 📸 界面预览 / Interface Preview
 
 ### 主管理界面 / Main Management Interface
-![主界面](images/main-gui.png)
+![主界面](<img width="1112" height="714" alt="image" src="https://github.com/user-attachments/assets/837b520d-1587-4fbc-b167-69b926ed8502" />
+)
 *主管理界面 - 查看和管理所有奖励计划 / Main management interface - View and manage all reward plans*
 
 ### 创建奖励计划 / Create Reward Plan
-![创建计划](images/create-plan.png)
+![创建计划](<img width="1112" height="714" alt="image" src="https://github.com/user-attachments/assets/c1e19026-7850-4a9e-a7e2-a27ad8ed9da5" />
+)
 *创建新的奖励计划 / Create new reward plans*
 
 ### 时间设置界面 / Time Setting Interface
-![时间设置](images/time-setting.png)
+![时间设置](<img width="1112" height="714" alt="image" src="https://github.com/user-attachments/assets/09110d64-9673-4eaa-aaf6-f1876562a5b8" />
+)
 *灵活的时间配置选项 / Flexible time configuration options*
 
 ### 奖励内容设置 / Reward Content Setting
-![奖励设置](images/reward-setting.png)
+![奖励设置](<img width="1112" height="714" alt="image" src="https://github.com/user-attachments/assets/717d01ee-d496-490e-a2d1-4927ac0817ae" />
+)
 *丰富的奖励类型配置 / Rich reward type configuration*
 
 ## 🚀 快速开始 / Quick Start
@@ -314,3 +318,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ⭐ 如果这个项目对您有帮助，请给我们一个星标！/ If this project helps you, please give us a star!
+
